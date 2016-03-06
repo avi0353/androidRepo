@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f11f1fe4">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:src="@drawable/main_menu"
+        android:background="#00ffffff" />
+
+    <ImageButton
+        android:layout_width="356dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/one_player_button"
+        android:id="@+id/one_player"
+        android:paddingLeft="10dp"
+        android:layout_marginLeft="13dp"
+        android:background="#00ffffff" />
+
+    <ImageButton
+        android:paddingLeft="10dp"
+        android:layout_marginLeft="13dp"
+        android:layout_width="356dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/two_player_button"
+        android:id="@+id/two_player"
+        android:background="#00ffffff" />
+
+    <ImageButton
+        android:paddingLeft="10dp"
+        android:layout_marginLeft="13dp"
+        android:layout_width="356dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/exit_game_button"
+        android:id="@+id/exit_game"
+        android:background="#02ffffff" />
+
+</LinearLayout>

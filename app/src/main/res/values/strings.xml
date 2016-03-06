@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">TicTacToeGame</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_human">You go first.</string>
+    <string name="turn_human">Your turn.</string>
+    <string name="turn_computer">It\'s my turn.</string>
+    <string name="turn_player_one">Player One\'s Turn.</string>
+    <string name="turn_player_two">Player Two\'s Turn.</string>
+    <string name="result_tie">It\'s a tie!</string>
+    <string name="result_human_wins">You Won!</string>
+    <string name="result_android_wins">I Won!</string>
+    <string name="result_player_one_wins">Player One Wins!</string>
+    <string name="result_player_two_wins">Player Two Wins!</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="info">Results</string>
+    <string name="human">You: </string>
+    <string name="player_one">Player One:  </string>
+    <string name="player_two">Player Two:  </string>
+    <string name="ties">Ties: </string>
+    <string name="android">Me: </string>
+    <string name="contact_heading">Contact Info</string>
+    <string name="contact_info">
+      <b>Name:</b> Avinash Chandra\n
+      <b>Email:</b>avinashc029@gmail.com\n
+      <b>Phone:</b> 9810578061\n
+      <b>Website:</b>www.storeavi.com
+    </string>
+    <string name="about_heading">About</string>
+    <string name="about_info">This app allows you to play a game
+      of tic tac toe against the computer. The rounds
+     will rotate who gets to play first. Also, the app
+      will keep track and display the result of the games
+      at the bottom of the screen.
+   </string>
+
+    <string name="newGame_label">New Game</string>
+    <string name="exitGame_label">Exit Game</string>
+    <string name="clear" />
+    <string name="new_game">New game</string>
+    <string name="exit_game">Exit Game</string>
+    <string name="Name">name</string>
+    <string name="name">Enter your Name...</string>
+    <string name="start_game">Start Game</string>
+    <string name="first_palyer">Enter first player</string>
+    <string name="second_player">Enter second player</string>
+    <string name="enter_first_player">Enter First Player</string>
+    <string name="back">Back</string>
+    <string name="first_player">Enter first player</string>
+</resources>
